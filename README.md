@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Bilal Ben Moussa (@Bilal59170).
-- 👀 I’m interested in applied mathematics. I am particularly interested in control theory, theoretical and numerical analysis of PDEs, and stochastic problems
-- 🌱 I’m currently in my final year of Engineering school at École des Ponts in a double degree with the modeling master's of Sorbone University.
-- 💞️ I’m looking for an internship starting from April in applied mathematics.
+- 👋 Hi, I am Bilal Ben Moussa (@Bilal59170).
+- 👀 I am interested in applied mathematics. I am particularly interested in control theory, theoretical and numerical analysis of PDEs, and stochastic problems
+- 🌱 I am currently in my final year of engineering school at École des Ponts in a double degree with the applied mathematics master's of Sorbonne University.
+- 💞️ I am looking for an internship starting from April in applied mathematics.
 - 📫 How to reach me: bilal.ben-moussa@eleves.enpc.fr, https://www.linkedin.com/in/bilal-ben-moussa/.
